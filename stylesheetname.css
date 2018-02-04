@@ -6,8 +6,8 @@ ul {
   background-color: #2ab1ff;
 }
 li {
-  display: inLine;
-  float:left;
+  display: inline;
+  float: left;
 }
 li a {
   display: block;

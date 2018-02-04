@@ -14,7 +14,7 @@ li a {
   text-decoration: none;
 }
 li a:hover {
-  background-color: ##2ab1ff;
+  background-color: #2ab1ff;
 }
 p {
   font-family: "Times New Roman", serif;
@@ -22,7 +22,3 @@ p {
   color: #2FD4FF;
 }
 
-a {
-  width:100px;
-  height:100px;
-}
